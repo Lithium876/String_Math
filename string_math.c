@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include <ctype.h>
+#include <string.h> 
 
 //GLOBAL VARIABLES
 char S1[9], O[1], S2[9];
