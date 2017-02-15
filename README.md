@@ -44,7 +44,7 @@ Here are some additional examples to clarify all expected operations.
 These do not necessarily encompass all checks for errors, or all the cases that need
 to be tested.
 
-| <b>Example input<\b>  | <b>Correct output</b>   |
+| <b>Example input</b>  | <b>Correct output</b>   |
 | --------------------- |:-----------------------:|
 | abc-aa                | Aac                     |
 | dog*cat               | loG                     |   
