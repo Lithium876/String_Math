@@ -55,4 +55,4 @@ to be tested.
 
 #DEMO
 
-[Imgur](http://i.imgur.com/Sra4rDd.gifv)
+<a href="http://imgur.com/Sra4rDd"><img src="http://i.imgur.com/Sra4rDd.gif" title="source: imgur.com" /></a>
