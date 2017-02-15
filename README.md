@@ -25,3 +25,32 @@ displayed to the user.
 This should continue until the user gives the
 keyphrase to exit the program (the keyphrase is of your choosing, good choices
 are “quit”, “end”, “exit”, etc.).
+
+For example:
+
+Input> wxy+bbb
+wxy + bbb => yzY
+
+If the two input strings are not the same length, then each output character
+beyond the length of the shorter string should be a copy of the character from
+the longer string. 
+
+For example:
+
+Input> xyz+a
+xyz + a => yyz
+
+Here are some additional examples to clarify all expected operations.
+These do not necessarily encompass all checks for errors, or all the cases that need
+to be tested.
+
+| <b>Example input<\b>  | <b>Correct output</b>   |
+| --------------------- |:-----------------------:|
+| abc-aa                | Aac                     |
+| dog*cat               | loG                     |   
+| turtle/frog           | caable                  |    
+| Frog+turtle           | bad input               |
+| bird/tiger            | BabDr                   |
+| emu+zebra             | Erwra                   |
+
+
